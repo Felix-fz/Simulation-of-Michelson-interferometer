@@ -1,3 +1,7 @@
+Michelson interferometer MATLAB simulation system interface
+![DWSL202105006_05900](https://github.com/Felix-fz/Simulation-of-Michelson-interferometer/assets/61495551/edb64308-3fed-4c9d-b4c7-490e41b57bf0)
+
+
 SimulationMichelsonApp Executable
 
 1. Prerequisites for Deployment 
